@@ -44,5 +44,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "AmplifyAppResource": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
